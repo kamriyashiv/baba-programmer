@@ -1,0 +1,14 @@
+@media screen and (max-width:640px){
+	.coll-no a{display:block; text-align:left;}
+}
+@media screen and (max-width:1298px){
+	.nav-list-bar label{display:block;border-bottom:1px solid #8080802e;}
+	.nav-list-bar nav{display:none;}
+	.list-inline>li{display:block!important; text-align:left!important; padding:5px 10px!important; border-bottom:1px solid #8080802e;}
+	#menu-btn:checked~ nav{display:block;}
+	.box-course{height:352px;}
+}
+@media screen and (max-width:768px){
+	.course-img{margin-top:72px;}
+	.box-course{height:352px;}
+}
